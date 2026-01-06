@@ -1,4 +1,7 @@
 # 📊 Modelado Predictivo de Valor de Vida del Cliente (CLV)
+| Autor            | Fecha        | Día |
+|------------------|--------------|----------|
+| **Carlos Vásquez** |06 Enero 2026 | 4| 
 
 ## 🎯 Objetivo del Proyecto
 
@@ -77,10 +80,15 @@ proyecto-clv/
 ├── clv_analysis.ipynb          # Notebook principal
 ├── README.md                    # Este archivo
 ├── requirements.txt             # Dependencias del proyecto
-└── data/                        # Carpeta para datos (generados automáticamente)
+└── visualizacionCompleta.png                      
 ```
 
 ---
+## Scripts
+[Código](clv_analysis.ipynb)
+
+## Visualizacion Completa
+![Gráficos](visualizacionCompleta.png)
 
 ## 🚀 Ejecución Paso a Paso
 
@@ -367,4 +375,5 @@ Este proyecto es un **ejercicio educativo** con datos sintéticos. En un proyect
 - Actualiza el modelo periódicamente
 - Incorpora feedback del negocio sobre la utilidad de las predicciones
 
-**¡Éxito en tu modelado predictivo! 🚀**
+## Test final educativo
+![quiz](modeloRegresionLineal.png)
